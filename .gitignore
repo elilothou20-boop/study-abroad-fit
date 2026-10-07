@@ -1,0 +1,18 @@
+# Keep filled inputs, private material and generated reports outside this repository.
+private/
+personal/
+filled-inputs/
+reports/
+output/
+tmp/
+*.pdf
+*.docx
+*.doc
+*.xlsx
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+.DS_Store
+Thumbs.db
