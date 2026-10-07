@@ -1,4 +1,4 @@
-# 留学硕士申请评估 Skill · study-abroad-fit
+# 留学梦校申请评估 Skill · study-abroad-fit
 
 > 与 AI 鏖战 20 小时，把个人 DIY 留学申请的研判思路整理成一套可复用的选校与背景评估流程。
 
